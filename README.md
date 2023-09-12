@@ -13,3 +13,6 @@ The tool that was used to develop this software was Visual Studio Code IDE.
 The programming language that was used is Python.
 
 # Useful Websites
+
+* [W3schools](https://www.w3schools.com/python/)
+* [Geeksforgeeks](https://www.geeksforgeeks.org/python-program-to-print-hello-world/)
