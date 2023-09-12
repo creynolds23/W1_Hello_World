@@ -8,7 +8,7 @@ The purpose of this software is to provide a simple program for new programmers 
 
 # Development Environment
 
-The tool that was used to develop this software were Visual Studio Code IDE.
+The tool that was used to develop this software was Visual Studio Code IDE.
 
 The programming language that was used is Python.
 
